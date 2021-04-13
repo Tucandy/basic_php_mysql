@@ -1,0 +1,106 @@
+.body {
+    background-image:url(2.jpg);
+    background-size: cover;
+    margin: 0;
+}
+.main {
+
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p.alignLeft {
+    font-size: 20px;
+    font: 1em sans-serif;
+}
+h1 {
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 40px;
+    font-style: sans-serif;
+}
+.tuychon {
+    width: 400px;
+    height: 550px;
+    background:rgb(66, 204, 238, 0.8);
+    color: rgb(25, 26, 26);
+    box-sizing: border-box;
+    padding: 70px 30px;
+    border-radius: 40px;
+    box-shadow:0px 10px 10px 0px rgba(0, 0, 0, 0.842);
+}
+.link1 {
+    font-size: 40px;
+    color: rgb(216, 92, 21);
+    font-style: sans-serif;
+}
+.link2 {
+    font-size: 40px;
+    color: rgb(21, 40, 216);
+    font-style: sans-serif;
+}
+.link3 {
+    font-size: 40px;
+    color: rgb(216, 213, 21);
+    font-style: sans-serif;
+}
+.link4 {
+    font-size: 40px;
+    color: rgb(7, 2, 1);
+    font-style: sans-serif;
+}
+.link5 {
+    font-size: 40px;
+    color: rgb(2, 1, 7);
+    font-style: sans-serif;
+}
+.link1,
+.link2,
+.link3,
+.link4,
+.link5 {
+    text-decoration: none;
+}
+.header-dangxuat {
+    font-style: sans-serif;
+    display: inline-block;
+    padding: 25px 25px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(252, 244, 244);
+    border-radius: none;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+
+}
+.header-dangxuat {
+    background-color: #e61414;
+    
+}
+
+.tuychon input[type="submit"]:hover {
+        cursor: pointer;
+        background: #f7410a;
+        color: #000;
+    }
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+    background-color: rgb(66, 204, 238);
+    font-size: 30px;
+}
+.header-welcome{
+    font-style: sans-serif;
+    padding-left: 15px;
+}
+.header-user{
+    font-style: sans-serif;
+    padding-right: 15px;
+}
+
+

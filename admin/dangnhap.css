@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url();
+    background-size: cover;
+    background-position: center;
+    font-family: Lucida sans-serif;
+}
+
+
+h1{
+    margin: 0;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 22px;
+}
+
+.dangnhap p{
+    margin: 0;
+    padding: 0;
+    font-weight: bold;
+}
+
+.dangnhap input{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.dangnhap a{
+    text-decoration: none;
+    font-size: 12px;
+    line-height: 20px;
+    color: rgb(224, 31, 31);
+}
+
+.dangnhap a:hover
+{
+    color: #ffc107;
+}
+
+
+
+
+
+
